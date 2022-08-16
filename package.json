@@ -1,0 +1,16 @@
+{
+  "name": "valid-word-project",
+  "version": "1.0.0",
+  "description": "checks whether the given word is a valid English word or not",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Alam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
